@@ -15,10 +15,12 @@ The dataset contains 110,526 rows and 14 columns of information about patients a
 - Diabetes: True or False
 - Alcoholism: True or False
 - Handcap: True or False
-- SMS_received: 1 or more messages sent to the patient.
+- SMS_received: None or 1 message sent to the patient.
 - No-show: True or False.
 
 ##Tools Used
 Microsoft Excel 
 
 ## Data Cleaning/Preparation 
+I chec
+
